@@ -28,3 +28,23 @@ Este es un cascarón de proyecto, siéntete libre de usarlo para tus proyectos.
 >   \_\_
 
 <br>
+
+---
+
+### Sección 3
+
+> [!NOTE]
+>
+> **Middlewares**
+>
+> - Persist Middlewares.
+> - createJSONStore.
+> - Guardar automáticamente en session storage.
+> - Guardar automáticamente en Firebase.
+> - Crear un storage personalizado.
+> - Diferentes interfaces de Zustand.
+> - Custom Middleware.
+> - Redux DevTools y acciones.
+>   \_\_
+
+<br>
