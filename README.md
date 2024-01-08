@@ -12,3 +12,19 @@ Este es un cascarón de proyecto, siéntete libre de usarlo para tus proyectos.
 2. Instalar dependencias ```npm install```
 3. Correr en desarrollo ```npm run dev```
 
+### Sección 2
+
+> [!NOTE]
+>
+> **Introducción**
+>
+> - Instalaciones.
+> - Configuraciones.
+> - Propiedades computadas.
+> - Objectos anidados.
+> - Actualizaciones de estado.
+> - Configuraciones de Typescript.
+> - useShallow
+>   \_\_
+
+<br>
