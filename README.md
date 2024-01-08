@@ -48,3 +48,22 @@ Este es un cascarón de proyecto, siéntete libre de usarlo para tus proyectos.
 >   \_\_
 
 <br>
+
+---
+
+### Sección 4
+
+> [!NOTE]
+>
+> **immer**
+>
+> - Drag & Drop (sin dependencias).
+> - Uso de Store con objetos anidados.
+> - Middlewares.
+> - Funciones adicionales.
+> - UUID.
+> - Mutaciones vs Clonaciones.
+> - Tipado en TypeScript.
+>   \_\_
+
+<br>
