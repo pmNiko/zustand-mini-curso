@@ -67,3 +67,16 @@ Este es un cascarón de proyecto, siéntete libre de usarlo para tus proyectos.
 >   \_\_
 
 <br>
+
+---
+
+### Sección 5
+
+> [!NOTE]
+>
+> **Slices**
+>
+> - Patrón Slices.
+>   \_\_
+
+<br>
