@@ -80,3 +80,17 @@ Este es un cascarón de proyecto, siéntete libre de usarlo para tus proyectos.
 >   \_\_
 
 <br>
+
+---
+
+### Sección 6
+
+> [!NOTE]
+>
+> **Peticiones HTTP**
+>
+> - JWTs.
+> - Zustand fuera del contexto de React.
+>   \_\_
+
+<br>
